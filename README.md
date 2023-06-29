@@ -38,7 +38,7 @@ In this project, the whole progress can be divided into 4 stages:<br>
 
 ***
 
-| ![Watch the video](/image/35p.gif) | 
+| ![Watch the video](/image/44p.gif) | 
 |:--:| 
 | *Visual comparison on ACCESS-S2, QM, DESRGAN output, PEFGAN output, target date.* |
 
